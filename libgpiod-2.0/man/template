@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# SPDX-FileCopyrightText: 2017-2021 Bartosz Golaszewski <bartekgola@gmail.com>
+
+[AUTHOR]
+Bartosz Golaszewski <bartekgola@gmail.com>
+
+[REPORTING BUGS]
+Report bugs to:
+    Bartosz Golaszewski <bartekgola@gmail.com>
+    linux-gpio <linux-gpio@vger.kernel.org>
