@@ -33,9 +33,13 @@ sudo make install
 
 ### 3.编译以及运行
 ```shell
+
 cd TFT_demo
 cmake .
 make -j4
+
+#授予设备权限，每次开机执行一次即可
+. exec.sh
 ./tft_demo
 ```
 
