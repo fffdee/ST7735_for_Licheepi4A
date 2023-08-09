@@ -14,7 +14,7 @@ git clone https://github.com/fffdee/ST7735_for_Licheepi4A.git
 安装所需要的依赖：
 ```shell
 sudo apt-get install build-essential pkg-config m4 automake autoconf libtool autoconf-archive
-sudo apt install gcc g++ gpiod
+sudo apt install gcc g++ gpiod cmake
 ```
 安装GPIOD库(源文件已安装,需要更改库路径参考以下操作)：
 ```shell
